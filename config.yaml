@@ -1,7 +1,7 @@
 baseURL: http://something-fresh.org/
 languageCode: en-us
 title: Summit Kings
-theme: fresh
+theme: hugo-fresh
 
 params:
   navbarlogo:
