@@ -1,11 +1,14 @@
 +++
-title = "Hugo is for lovers"
+banner = "img/banners/banner-3.jpg"
+categories = ["pseudo"]
 date = "2015-08-03T13:39:46+02:00"
 tags = ["hugo"]
-categories = ["pseudo"]
-banner = "img/banners/banner-3.jpg"
-+++
+title = "Hugo is for lovers"
+[menu.topbar]
+name = "Direct link to blogpost"
+weight = 5
 
++++
 ## Step 1. Install Hugo
 
 Goto [hugo releases](https://github.com/spf13/hugo/releases) and download the
