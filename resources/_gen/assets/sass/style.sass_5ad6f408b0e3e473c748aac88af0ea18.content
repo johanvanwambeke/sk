@@ -6236,7 +6236,6 @@ Navbar
     width: 100%;
     min-height: 4rem !important;
     background: #fff;
-    background: #ff3860;
     box-shadow: 0 0 8px 0 rgba(0, 0, 0, 0.12); }
     .navbar.is-fresh.is-fixed a {
       color: #444F60; }
